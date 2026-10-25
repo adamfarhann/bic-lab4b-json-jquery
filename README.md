@@ -56,13 +56,13 @@ In Question 2, JavaScript's `fetch()` API is used to retrieve data from `books.j
 
 ### Expected Output
 
-- First book title: The Great Gatsby
-- Second book author: Harper Lee
-- The Great Gatsby — Fiction, Classics
-- To Kill a Mockingbird — Fiction, Coming-of-Age
+- First book title: Harry Potter and the Philosopher's Stone
+- Second book author: Suzanne Collins
+- Harry Potter and the Philosopher's Stone - Fantasy, Adventure
+- The Hunger Games - Science Fiction, Dystopian
 
 ### Screenshot
-<img width="1051" height="717" alt="image" src="https://github.com/user-attachments/assets/6e430891-9129-4252-9818-e648e8c1807a" />
+<img width="821" height="767" alt="image" src="https://github.com/user-attachments/assets/df8508f8-30be-4324-b003-0736e60f8c5a" />
 
 
 ## Question 3 — Compare Native JavaScript and jQuery
